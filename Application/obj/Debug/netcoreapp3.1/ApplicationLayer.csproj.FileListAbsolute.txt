@@ -1,0 +1,12 @@
+E:\Gopi_Files\Core_Projects\TrackerAPI\Application\bin\Debug\netcoreapp3.1\ApplicationLayer.deps.json
+E:\Gopi_Files\Core_Projects\TrackerAPI\Application\bin\Debug\netcoreapp3.1\ApplicationLayer.dll
+E:\Gopi_Files\Core_Projects\TrackerAPI\Application\bin\Debug\netcoreapp3.1\ApplicationLayer.pdb
+E:\Gopi_Files\Core_Projects\TrackerAPI\Application\obj\Debug\netcoreapp3.1\ApplicationLayer.AssemblyInfoInputs.cache
+E:\Gopi_Files\Core_Projects\TrackerAPI\Application\obj\Debug\netcoreapp3.1\ApplicationLayer.AssemblyInfo.cs
+E:\Gopi_Files\Core_Projects\TrackerAPI\Application\obj\Debug\netcoreapp3.1\ApplicationLayer.dll
+E:\Gopi_Files\Core_Projects\TrackerAPI\Application\obj\Debug\netcoreapp3.1\ApplicationLayer.pdb
+E:\Gopi_Files\Core_Projects\TrackerAPI\Application\obj\Debug\netcoreapp3.1\ApplicationLayer.csprojAssemblyReference.cache
+E:\Gopi_Files\Core_Projects\TrackerAPI\Application\bin\Debug\netcoreapp3.1\DomainLayer.dll
+E:\Gopi_Files\Core_Projects\TrackerAPI\Application\bin\Debug\netcoreapp3.1\DomainLayer.pdb
+E:\Gopi_Files\Core_Projects\TrackerAPI\Application\obj\Debug\netcoreapp3.1\ApplicationLayer.csproj.CopyComplete
+E:\Gopi_Files\Core_Projects\TrackerAPI\Application\obj\Debug\netcoreapp3.1\ApplicationLayer.csproj.CoreCompileInputs.cache

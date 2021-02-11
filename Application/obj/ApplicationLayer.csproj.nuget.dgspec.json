@@ -1,0 +1,160 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Gopi_Files\\Core_Projects\\TrackerAPI\\Application\\ApplicationLayer.csproj": {}
+  },
+  "projects": {
+    "E:\\Gopi_Files\\Core_Projects\\TrackerAPI\\Application\\ApplicationLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Gopi_Files\\Core_Projects\\TrackerAPI\\Application\\ApplicationLayer.csproj",
+        "projectName": "ApplicationLayer",
+        "projectPath": "E:\\Gopi_Files\\Core_Projects\\TrackerAPI\\Application\\ApplicationLayer.csproj",
+        "packagesPath": "C:\\Users\\gopik\\.nuget\\packages\\",
+        "outputPath": "E:\\Gopi_Files\\Core_Projects\\TrackerAPI\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gopik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Gopi_Files\\Core_Projects\\TrackerAPI\\DomainLayer\\DomainLayer.csproj": {
+                "projectPath": "E:\\Gopi_Files\\Core_Projects\\TrackerAPI\\DomainLayer\\DomainLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
+            "FastMember": {
+              "target": "Package",
+              "version": "[1.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Gopi_Files\\Core_Projects\\TrackerAPI\\DomainLayer\\DomainLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Gopi_Files\\Core_Projects\\TrackerAPI\\DomainLayer\\DomainLayer.csproj",
+        "projectName": "DomainLayer",
+        "projectPath": "E:\\Gopi_Files\\Core_Projects\\TrackerAPI\\DomainLayer\\DomainLayer.csproj",
+        "packagesPath": "C:\\Users\\gopik\\.nuget\\packages\\",
+        "outputPath": "E:\\Gopi_Files\\Core_Projects\\TrackerAPI\\DomainLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gopik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.11.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

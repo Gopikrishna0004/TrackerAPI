@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\gopik\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\gopik\\.nuget\\packages"
+    ]
+  }
+}

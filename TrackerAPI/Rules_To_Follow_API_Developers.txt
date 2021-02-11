@@ -1,0 +1,9 @@
+﻿***********************************************IMPORTANT RULES****************************************************
+RULE1:: To_Write_Any_Word_Or_Sentence_Use_Combination_Of_Pascal_Case_With_Snake_Case(Under_Score_Case)
+
+***********************************************Scaffold From DB to Applicaton*************************************
+===***For_Local_System***===
+Scaffold-DbContext "Data Source=DESKTOP-D2BL0S1\SQLEXPRESS;Initial Catalog=Tracker_DB;Integrated Security=True;ApplicationIntent=ReadWrite;MultiSubnetFailover=False" Microsoft.EntityFrameworkCore.SqlServer -Schema dbo -OutputDir Table_Entities -Context Tracker_Db_Context -Project DomainLayer -StartupProject DomainLayer -f
+
+***********************************************Retrieving Connection from appsettings.json*************************************
+string ConnectionStrings = _configuration.GetValue<string>("ConnectionStrings:ConnStr");

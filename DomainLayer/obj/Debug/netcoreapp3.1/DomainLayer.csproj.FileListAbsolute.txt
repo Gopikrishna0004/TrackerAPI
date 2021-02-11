@@ -1,0 +1,12 @@
+E:\Gopi_Files\Core_Projects\TrackerAPI\DomainLayer\bin\Debug\netcoreapp3.1\DomainLayer.deps.json
+E:\Gopi_Files\Core_Projects\TrackerAPI\DomainLayer\bin\Debug\netcoreapp3.1\DomainLayer.dll
+E:\Gopi_Files\Core_Projects\TrackerAPI\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.csprojAssemblyReference.cache
+E:\Gopi_Files\Core_Projects\TrackerAPI\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.AssemblyInfoInputs.cache
+E:\Gopi_Files\Core_Projects\TrackerAPI\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.AssemblyInfo.cs
+E:\Gopi_Files\Core_Projects\TrackerAPI\DomainLayer\bin\Debug\netcoreapp3.1\DomainLayer.runtimeconfig.json
+E:\Gopi_Files\Core_Projects\TrackerAPI\DomainLayer\bin\Debug\netcoreapp3.1\DomainLayer.runtimeconfig.dev.json
+E:\Gopi_Files\Core_Projects\TrackerAPI\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.genruntimeconfig.cache
+E:\Gopi_Files\Core_Projects\TrackerAPI\DomainLayer\bin\Debug\netcoreapp3.1\DomainLayer.pdb
+E:\Gopi_Files\Core_Projects\TrackerAPI\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.dll
+E:\Gopi_Files\Core_Projects\TrackerAPI\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.pdb
+E:\Gopi_Files\Core_Projects\TrackerAPI\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.csproj.CoreCompileInputs.cache
